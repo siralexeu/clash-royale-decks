@@ -1,0 +1,65 @@
+[
+{
+  "id": 1764684848747,
+  "name": "splashyard",
+  "cards": [
+    {
+      "id": "witch_evo",
+      "name": "Witch Evo",
+      "image": "https://www.deckshop.pro/img/card_ed_evo/Witch.png",
+      "elixir": 5,
+      "rarity": "epic"
+    },
+    {
+      "id": "valkyrie_evo",
+      "name": "Valkyrie Evo",
+      "image": "https://www.deckshop.pro/img/card_ed_evo/Valk.png",
+      "elixir": 4,
+      "rarity": "evolution"
+    },
+    {
+      "id": "vines",
+      "name": "Vines",
+      "image": "https://www.deckshop.pro/img/card_ed/Vines.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "image": "https://www.deckshop.pro/img/card_ed/Poison.png",
+      "elixir": 4,
+      "rarity": "epic"
+    },
+    {
+      "id": "graveyard",
+      "name": "Graveyard",
+      "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
+      "elixir": 5,
+      "rarity": "legendary"
+    },
+    {
+      "id": "goblin_hut",
+      "name": "Goblin Hut",
+      "image": "https://www.deckshop.pro/img/card_ed/GobHut.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "barb_barrel",
+      "name": "Barbarian Barrel",
+      "image": "https://www.deckshop.pro/img/card_ed/BarbBarrel.png",
+      "elixir": 2,
+      "rarity": "epic"
+    },
+    {
+      "id": "ice_wizard",
+      "name": "Ice Wizard",
+      "image": "https://www.deckshop.pro/img/card_ed/IceWiz.png",
+      "elixir": 3,
+      "rarity": "legendary"
+    }
+  ],
+  "avgElixir": "3.8"
+}
+]

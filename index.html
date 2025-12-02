@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clash Royale Deck Builder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <h1 class="logo">Clash Royale Deck Builder</h1>
+            <div class="nav-links">
+                <a href="#" class="nav-link active" data-page="deck-builder">Deck Builder</a>
+                <a href="#" class="nav-link" data-page="my-decks">My Decks</a>
+                <a href="#" class="nav-link" data-page="all-cards">All Cards</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Deck Builder Page -->
+    <div id="deck-builder-page" class="page active">
+        <div class="container">
+            <h2 class="page-title">Build Your Deck</h2>
+            
+            <div class="deck-info">
+                <input type="text" id="deck-name" class="deck-name-input" placeholder="Deck Name (e.g., Hog Cycle)">
+                <div class="elixir-badge">Avg: <span id="avg-elixir">0.0</span> elixir</div>
+            </div>
+
+            <!-- 8 Card Slots -->
+            <div class="deck-slots">
+                <div class="slot empty" data-slot="1">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="2">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="3">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="4">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="5">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="6">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="7">
+                    <div class="slot-placeholder">+</div>
+                </div>
+                <div class="slot empty" data-slot="8">
+                    <div class="slot-placeholder">+</div>
+                </div>
+            </div>
+
+            <div class="deck-actions">
+                <button id="export-deck-btn" class="btn btn-primary">Export Deck</button>
+                <button id="clear-deck-btn" class="btn btn-danger">Clear Deck</button>
+            </div>
+
+            <!-- Card Selection Area -->
+            <div class="card-selection">
+                <h3>Select a Card</h3>
+                <input type="text" id="card-search" class="search-input" placeholder="Search cards...">
+                <div id="cards-grid" class="cards-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- My Decks Page -->
+    <div id="my-decks-page" class="page">
+        <div class="container">
+            <h2 class="page-title">My Saved Decks</h2>
+            <div id="saved-decks-container" class="saved-decks-grid"></div>
+        </div>
+    </div>
+
+    <!-- All Cards Page -->
+    <div id="all-cards-page" class="page">
+        <div class="container">
+            <h2 class="page-title">All Cards</h2>
+            <input type="text" id="all-cards-search" class="search-input" placeholder="Search all cards...">
+            <div id="all-cards-grid" class="all-cards-grid"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

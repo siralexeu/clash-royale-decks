@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "skellies",
+    "name": "Skeletons",
+    "image": "https://www.deckshop.pro/img/card_ed/Skellies.png",
+    "elixir": 1,
+    "rarity": "common"
+  },
+  {
+    "id": "skellies_evo",
+    "name": "Skeletons Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Skellies.png",
+    "elixir": 1,
+    "rarity": "evolution"
+  },
+  {
+    "id": "ice_spirit",
+    "name": "Ice Spirit",
+    "image": "https://www.deckshop.pro/img/card_ed/IceSpirit.png",
+    "elixir": 1,
+    "rarity": "common"
+  },
+  {
+    "id": "ice_spirit_evo",
+    "name": "Ice Spirit Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/IceSpirit.png",
+    "elixir": 1,
+    "rarity": "evolution"
+  },
+  {
+    "id": "electro_spirit",
+    "name": "Electro Spirit",
+    "image": "https://www.deckshop.pro/img/card_ed/ElectroSpirit.png",
+    "elixir": 1,
+    "rarity": "common"
+  },
+  {
+    "id": "fire_spirit",
+    "name": "Fire Spirit",
+    "image": "https://www.deckshop.pro/img/card_ed/FireSpirit.png",
+    "elixir": 1,
+    "rarity": "common"
+  },
+  {
+    "id": "heal_spirit",
+    "name": "Heal Spirit",
+    "image": "https://www.deckshop.pro/img/card_ed/HealSpirit.png",
+    "elixir": 1,
+    "rarity": "rare"
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror",
+    "image": "https://www.deckshop.pro/img/card_ed/Mirror.png",
+    "elixir": 2,
+    "rarity": "epic"
+  },
+  {
+    "id": "goblins",
+    "name": "Goblins",
+    "image": "https://www.deckshop.pro/img/card_ed/Gobs.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "spear_goblins",
+    "name": "Spear Goblins",
+    "image": "https://www.deckshop.pro/img/card_ed/SpearGobs.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "bomber",
+    "name": "Bomber",
+    "image": "https://www.deckshop.pro/img/card_ed/Bomber.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "bomber_evo",
+    "name": "Bomber Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Bomber.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "bats",
+    "name": "Bats",
+    "image": "https://www.deckshop.pro/img/card_ed/Bats.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "bats_evo",
+    "name": "Bats Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Bats.png",
+    "elixir": 2,
+    "rarity": "evolution"
+  },
+  {
+    "id": "zap",
+    "name": "Zap",
+    "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "zap_evo",
+    "name": "Zap Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Zap.png",
+    "elixir": 2,
+    "rarity": "evolution"
+  },
+  {
+    "id": "snowball",
+    "name": "Giant Snowball",
+    "image": "https://www.deckshop.pro/img/card_ed/Snowball.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "snowball_evo",
+    "name": "Giant Snowball Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Snowball.png",
+    "elixir": 2,
+    "rarity": "evolution"
+  },
+  {
+    "id": "berserker",
+    "name": "Berserker",
+    "image": "https://www.deckshop.pro/img/card_ed/Berserker.png",
+    "elixir": 2,
+    "rarity": "common"
+  },
+  {
+    "id": "ice_golem",
+    "name": "Ice Golem",
+    "image": "https://www.deckshop.pro/img/card_ed/IceGolem.png",
+    "elixir": 2,
+    "rarity": "rare"
+  },
+  {
+    "id": "suspicious_bush",
+    "name": "Suspicious Bush",
+    "image": "https://www.deckshop.pro/img/card_ed/SuspiciousBush.png",
+    "elixir": 2,
+    "rarity": "rare"
+  },
+  {
+    "id": "barb_barrel",
+    "name": "Barbarian Barrel",
+    "image": "https://www.deckshop.pro/img/card_ed/BarbBarrel.png",
+    "elixir": 2,
+    "rarity": "epic"
+  },
+  {
+    "id": "wall_breakers",
+    "name": "Wall Breakers",
+    "image": "https://www.deckshop.pro/img/card_ed/WallBreakers.png",
+    "elixir": 2,
+    "rarity": "epic"
+  },
+  {
+    "id": "wall_breakers_evo",
+    "name": "Wall Breakers Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/WallBreakers.png",
+    "elixir": 2,
+    "rarity": "evolution"
+  },
+  {
+    "id": "goblin_curse",
+    "name": "Goblin Curse",
+    "image": "https://www.deckshop.pro/img/card_ed/GoblinCurse.png",
+    "elixir": 2,
+    "rarity": "epic"
+  },
+  {
+    "id": "rage",
+    "name": "Rage",
+    "image": "https://www.deckshop.pro/img/card_ed/Rage.png",
+    "elixir": 2,
+    "rarity": "epic"
+  },
+  {
+    "id": "log",
+    "name": "The Log",
+    "image": "https://www.deckshop.pro/img/card_ed/Log.png",
+    "elixir": 2,
+    "rarity": "legendary"
+  },
+  {
+    "id": "archers",
+    "name": "Archers",
+    "image": "https://www.deckshop.pro/img/card_ed/Archers.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "archers_evo",
+    "name": "Archers Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Archers.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "arrows",
+    "name": "Arrows",
+    "image": "https://www.deckshop.pro/img/card_ed/Arrows.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "knight",
+    "name": "Knight",
+    "image": "https://www.deckshop.pro/img/card_ed/Knight.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "knight_evo",
+    "name": "Knight Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Knight.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "knight_hero",
+    "name": "Knight Hero",
+    "image": "https://www.deckshop.pro/img/card_ed_hero/Knight.png",
+    "elixir": 3,
+    "rarity": "hero"
+  },
+  {
+    "id": "minions",
+    "name": "Minions",
+    "image": "https://www.deckshop.pro/img/card_ed/Minions.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "cannon",
+    "name": "Cannon",
+    "image": "https://www.deckshop.pro/img/card_ed/Cannon.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "cannon_evo",
+    "name": "Cannon Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Cannon.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "gob_gang",
+    "name": "Goblin Gang",
+    "image": "https://www.deckshop.pro/img/card_ed/GobGang.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "skelly_barrel",
+    "name": "Skeleton Barrel",
+    "image": "https://www.deckshop.pro/img/card_ed/SkellyBarrel.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "skelly_barrel_evo",
+    "name": "Skeleton Barrel Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/SkellyBarrel.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "firecracker",
+    "name": "Firecracker",
+    "image": "https://www.deckshop.pro/img/card_ed/Firecracker.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "firecracker_evo",
+    "name": "Firecracker Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Firecracker.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "royal_delivery",
+    "name": "Royal Delivery",
+    "image": "https://www.deckshop.pro/img/card_ed/RoyalDelivery.png",
+    "elixir": 3,
+    "rarity": "common"
+  },
+  {
+    "id": "tombstone",
+    "name": "Tombstone",
+    "image": "https://www.deckshop.pro/img/card_ed/Tombstone.png",
+    "elixir": 3,
+    "rarity": "rare"
+  },
+  {
+    "id": "mega_minion",
+    "name": "Mega Minion",
+    "image": "https://www.deckshop.pro/img/card_ed/MM.png",
+    "elixir": 3,
+    "rarity": "rare"
+  },
+  {
+    "id": "dart_goblin",
+    "name": "Dart Goblin",
+    "image": "https://www.deckshop.pro/img/card_ed/DartGob.png",
+    "elixir": 3,
+    "rarity": "rare"
+  },
+  {
+    "id": "earthquake",
+    "name": "Earthquake",
+    "image": "https://www.deckshop.pro/img/card_ed/Earthquake.png",
+    "elixir": 3,
+    "rarity": "rare"
+  },
+  {
+    "id": "elixir_golem",
+    "name": "Elixir Golem",
+    "image": "https://www.deckshop.pro/img/card_ed/ElixirGolem.png",
+    "elixir": 3,
+    "rarity": "rare"
+  },
+  {
+    "id": "goblin_barrel",
+    "name": "Goblin Barrel",
+    "image": "https://www.deckshop.pro/img/card_ed/Barrel.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "goblin_barrel_evo",
+    "name": "Goblin Barrel Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Barrel.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "guards",
+    "name": "Guards",
+    "image": "https://www.deckshop.pro/img/card_ed/Guards.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "skarmy",
+    "name": "Skeleton Army",
+    "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "skarmy_evo",
+    "name": "Skeleton Army Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Skarmy.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "vines",
+    "name": "Vines",
+    "image": "https://www.deckshop.pro/img/card_ed/Vines.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "clone",
+    "name": "Clone",
+    "image": "https://www.deckshop.pro/img/card_ed/Clone.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "tornado",
+    "name": "Tornado",
+    "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "void",
+    "name": "Void",
+    "image": "https://www.deckshop.pro/img/card_ed/Void.png",
+    "elixir": 3,
+    "rarity": "epic"
+  },
+  {
+    "id": "miner",
+    "name": "Miner",
+    "image": "https://www.deckshop.pro/img/card_ed/Miner.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "princess",
+    "name": "Princess",
+    "image": "https://www.deckshop.pro/img/card_ed/Princess.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "ice_wizard",
+    "name": "Ice Wizard",
+    "image": "https://www.deckshop.pro/img/card_ed/IceWiz.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "royal_ghost",
+    "name": "Royal Ghost",
+    "image": "https://www.deckshop.pro/img/card_ed/Ghost.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "royal_ghost_evo",
+    "name": "Royal Ghost Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Ghost.png",
+    "elixir": 3,
+    "rarity": "evolution"
+  },
+  {
+    "id": "bandit",
+    "name": "Bandit",
+    "image": "https://www.deckshop.pro/img/card_ed/Bandit.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "fisherman",
+    "name": "Fisherman",
+    "image": "https://www.deckshop.pro/img/card_ed/Fisherman.png",
+    "elixir": 3,
+    "rarity": "legendary"
+  },
+  {
+    "id": "little_prince",
+    "name": "Little Prince",
+    "image": "https://www.deckshop.pro/img/card_ed/LittlePrince.png",
+    "elixir": 3,
+    "rarity": "champion"
+  },
+  {
+    "id": "skeleton_dragons",
+    "name": "Skeleton Dragons",
+    "image": "https://www.deckshop.pro/img/card_ed/SkeletonDragons.png",
+    "elixir": 4,
+    "rarity": "common"
+  },
+  {
+    "id": "mortar",
+    "name": "Mortar",
+    "image": "https://www.deckshop.pro/img/card_ed/Mortar.png",
+    "elixir": 4,
+    "rarity": "common"
+  },
+  {
+    "id": "mortar_evo",
+    "name": "Mortar Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Mortar.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "image": "https://www.deckshop.pro/img/card_ed/Tesla.png",
+    "elixir": 4,
+    "rarity": "common"
+  },
+  {
+    "id": "tesla_evo",
+    "name": "Tesla Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Tesla.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "fireball",
+    "name": "Fireball",
+    "image": "https://www.deckshop.pro/img/card_ed/Fireball.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "mini_pekka",
+    "name": "Mini P.E.K.K.A.",
+    "image": "https://www.deckshop.pro/img/card_ed/MP.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "mini_pekka_hero",
+    "name": "Mini P.E.K.K.A. Hero",
+    "image": "https://www.deckshop.pro/img/card_ed_hero/MP.png",
+    "elixir": 4,
+    "rarity": "hero"
+  },
+  {
+    "id": "musketeer",
+    "name": "Musketeer",
+    "image": "https://www.deckshop.pro/img/card_ed/Musk.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "musketeer_evo",
+    "name": "Musketeer Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Musk.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "musketeer_hero",
+    "name": "Musketeer Hero",
+    "image": "https://www.deckshop.pro/img/card_ed_hero/Musk.png",
+    "elixir": 4,
+    "rarity": "hero"
+  },
+  {
+    "id": "goblin_cage",
+    "name": "Goblin Cage",
+    "image": "https://www.deckshop.pro/img/card_ed/GoblinCage.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+  {
+    "id": "goblin_cage_evo",
+    "name": "Goblin Cage Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/GoblinCage.png",
+    "elixir": 5,
+    "rarity": "evolution"
+  },
+  {
+    "id": "goblin_hut",
+    "name": "Goblin Hut",
+    "image": "https://www.deckshop.pro/img/card_ed/GobHut.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "valkyrie",
+    "name": "Valkyrie",
+    "image": "https://www.deckshop.pro/img/card_ed/Valk.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "valkyrie_evo",
+    "name": "Valkyrie Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Valk.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "battle_ram",
+    "name": "Battle Ram",
+    "image": "https://www.deckshop.pro/img/card_ed/Ram.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "battle_ram_evo",
+    "name": "Battle Ram Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Ram.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "bomb_tower",
+    "name": "Bomb Tower",
+    "image": "https://www.deckshop.pro/img/card_ed/BombTower.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "flying_machine",
+    "name": "Flying Machine",
+    "image": "https://www.deckshop.pro/img/card_ed/FlyingMachine.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "hog_rider",
+    "name": "Hog Rider",
+    "image": "https://www.deckshop.pro/img/card_ed/Hog.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "battle_healer",
+    "name": "Battle Healer",
+    "image": "https://www.deckshop.pro/img/card_ed/BattleHealer.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "furnace",
+    "name": "Furnace",
+    "image": "https://www.deckshop.pro/img/card_ed/Furnace.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "furnace_evo",
+    "name": "Furnace Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Furnace.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "zappies",
+    "name": "Zappies",
+    "image": "https://www.deckshop.pro/img/card_ed/Zappies.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "goblin_demolisher",
+    "name": "Goblin Demolisher",
+    "image": "https://www.deckshop.pro/img/card_ed/GoblinDemolisher.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
+  {
+    "id": "baby_dragon",
+    "name": "Baby Dragon",
+    "image": "https://www.deckshop.pro/img/card_ed/BabyD.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "baby_dragon_evo",
+    "name": "Baby Dragon Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/BabyD.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "dark_prince",
+    "name": "Dark Prince",
+    "image": "https://www.deckshop.pro/img/card_ed/DarkPrince.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "freeze",
+    "name": "Freeze",
+    "image": "https://www.deckshop.pro/img/card_ed/Freeze.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "poison",
+    "name": "Poison",
+    "image": "https://www.deckshop.pro/img/card_ed/Poison.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "rune_giant",
+    "name": "Rune Giant",
+    "image": "https://www.deckshop.pro/img/card_ed/RuneGiant.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter",
+    "image": "https://www.deckshop.pro/img/card_ed/Hunter.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "hunter_evo",
+    "name": "Hunter Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Hunter.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "goblin_drill",
+    "name": "Goblin Drill",
+    "image": "https://www.deckshop.pro/img/card_ed/GoblinDrill.png",
+    "elixir": 4,
+    "rarity": "epic"
+  },
+  {
+    "id": "goblin_drill_evo",
+    "name": "Goblin Drill Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/GoblinDrill.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "electro_wizard",
+    "name": "Electro Wizard",
+    "image": "https://www.deckshop.pro/img/card_ed/eWiz.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "inferno_dragon",
+    "name": "Inferno Dragon",
+    "image": "https://www.deckshop.pro/img/card_ed/InfernoD.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "inferno_dragon_evo",
+    "name": "Inferno Dragon Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/InfernoD.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "image": "https://www.deckshop.pro/img/card_ed/Phoenix.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "magic_archer",
+    "name": "Magic Archer",
+    "image": "https://www.deckshop.pro/img/card_ed/MagicArcher.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "lumberjack",
+    "name": "Lumberjack",
+    "image": "https://www.deckshop.pro/img/card_ed/Lumber.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "lumberjack_evo",
+    "name": "Lumberjack Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Lumber.png",
+    "elixir": 4,
+    "rarity": "evolution"
+  },
+  {
+    "id": "night_witch",
+    "name": "Night Witch",
+    "image": "https://www.deckshop.pro/img/card_ed/NightWitch.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "mother_witch",
+    "name": "Mother Witch",
+    "image": "https://www.deckshop.pro/img/card_ed/MotherWitch.png",
+    "elixir": 4,
+    "rarity": "legendary"
+  },
+  {
+    "id": "archer_queen",
+    "name": "Archer Queen",
+    "image": "https://www.deckshop.pro/img/card_ed/ArcherQueen.png",
+    "elixir": 5,
+    "rarity": "champion"
+  },
+  {
+    "id": "skeleton_king",
+    "name": "Skeleton King",
+    "image": "https://www.deckshop.pro/img/card_ed/SkeletonKing.png",
+    "elixir": 4,
+    "rarity": "champion"
+  },
+  {
+    "id": "mighty_miner",
+    "name": "Mighty Miner",
+    "image": "https://www.deckshop.pro/img/card_ed/MightyMiner.png",
+    "elixir": 4,
+    "rarity": "champion"
+  },
+  {
+    "id": "barbarians",
+    "name": "Barbarians",
+    "image": "https://www.deckshop.pro/img/card_ed/Barbs.png",
+    "elixir": 5,
+    "rarity": "common"
+  },
+  {
+    "id": "barbarians_evo",
+    "name": "Barbarians Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Barbs.png",
+    "elixir": 5,
+    "rarity": "evolution"
+  },
+  {
+    "id": "minion_horde",
+    "name": "Minion Horde",
+    "image": "https://www.deckshop.pro/img/card_ed/Horde.png",
+    "elixir": 5,
+    "rarity": "common"
+  },
+  {
+    "id": "rascals",
+    "name": "Rascals",
+    "image": "https://www.deckshop.pro/img/card_ed/Rascals.png",
+    "elixir": 5,
+    "rarity": "common"
+  },
+  {
+    "id": "giant",
+    "name": "Giant",
+    "image": "https://www.deckshop.pro/img/card_ed/Giant.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+  {
+    "id": "giant_hero",
+    "name": "Giant Hero",
+    "image": "https://www.deckshop.pro/img/card_ed_hero/Giant.png",
+    "elixir": 5,
+    "rarity": "hero"
+  },
+  {
+    "id": "inferno_tower",
+    "name": "Inferno Tower",
+    "image": "https://www.deckshop.pro/img/card_ed/Inferno.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "image": "https://www.deckshop.pro/img/card_ed/Wiz.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+  {
+    "id": "wizard_evo",
+    "name": "Wizard Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Wiz.png",
+    "elixir": 5,
+    "rarity": "evolution"
+  },
+  {
+    "id": "royal_hogs",
+    "name": "Royal Hogs",
+    "image": "https://www.deckshop.pro/img/card_ed/RoyalHogs.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+{
+    "id": "royal_hogs_evo",
+    "name": "Royal Hogs Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/RoyalHogs.png",
+    "elixir": 5,
+    "rarity": "rare"
+  },
+  {
+    "id": "witch",
+    "name": "Witch",
+    "image": "https://www.deckshop.pro/img/card_ed/Witch.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+{
+    "id": "witch_evo",
+    "name": "Witch Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Witch.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+{
+    "id": "balloon",
+    "name": "Balloon",
+    "image": "https://www.deckshop.pro/img/card_ed/Balloon.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "prince",
+    "name": "Prince",
+    "image": "https://www.deckshop.pro/img/card_ed/Prince.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "electro_dragon",
+    "name": "Electro Dragon",
+    "image": "https://www.deckshop.pro/img/card_ed/eDragon.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "electro_dragon_evo",
+    "name": "Electro Dragon Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/eDragon.png",
+    "elixir": 5,
+    "rarity": "evolution"
+  },
+  {
+    "id": "bowler",
+    "name": "Bowler",
+    "image": "https://www.deckshop.pro/img/card_ed/Bowler.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "executioner",
+    "name": "Executioner",
+    "image": "https://www.deckshop.pro/img/card_ed/Exe.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "cannon_cart",
+    "name": "Cannon Cart",
+    "image": "https://www.deckshop.pro/img/card_ed/CannonCart.png",
+    "elixir": 5,
+    "rarity": "epic"
+  },
+  {
+    "id": "ram_rider",
+    "name": "Ram Rider",
+    "image": "https://www.deckshop.pro/img/card_ed/RamRider.png",
+    "elixir": 5,
+    "rarity": "legendary"
+  },
+{
+    "id": "graveyard",
+    "name": "Graveyard",
+    "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
+    "elixir": 5,
+    "rarity": "legendary"
+  },
+  {
+    "id": "goblin_machine",
+    "name": "Goblin Machine",
+    "image": "https://www.deckshop.pro/img/card_ed/GoblinMachine.png",
+    "elixir": 5,
+    "rarity": "legendary"
+  },
+  {
+    "id": "monk",
+    "name": "Monk",
+    "image": "https://www.deckshop.pro/img/card_ed/Monk.png",
+    "elixir": 5,
+    "rarity": "champion"
+  },
+  {
+    "id": "royal_giant",
+    "name": "Royal Giant",
+    "image": "https://www.deckshop.pro/img/card_ed/RG.png",
+    "elixir": 6,
+    "rarity": "common"
+  },
+  {
+    "id": "royal_giant_evo",
+    "name": "Royal Giant Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/RG.png",
+    "elixir": 6,
+    "rarity": "evolution"
+  },
+  {
+    "id": "elite_barbarians",
+    "name": "Elite Barbarians",
+    "image": "https://www.deckshop.pro/img/card_ed/eBarbs.png",
+    "elixir": 6,
+    "rarity": "common"
+  },
+  {
+    "id": "rocket",
+    "name": "Rocket",
+    "image": "https://www.deckshop.pro/img/card_ed/Rocket.png",
+    "elixir": 6,
+    "rarity": "rare"
+  },
+  {
+    "id": "barbarian_hut",
+    "name": "Barbarian Hut",
+    "image": "https://www.deckshop.pro/img/card_ed/BarbHut.png",
+    "elixir": 6,
+    "rarity": "rare"
+  },
+  {
+    "id": "elixir_collector",
+    "name": "Elixir Collector",
+    "image": "https://www.deckshop.pro/img/card_ed/Pump.png",
+    "elixir": 6,
+    "rarity": "rare"
+  },
+  {
+    "id": "giant_skeleton",
+    "name": "Giant Skeleton",
+    "image": "https://www.deckshop.pro/img/card_ed/GiantSkelly.png",
+    "elixir": 6,
+    "rarity": "epic"
+  },
+  {
+    "id": "lightning",
+    "name": "Lightning",
+    "image": "https://www.deckshop.pro/img/card_ed/Lightning.png",
+    "elixir": 6,
+    "rarity": "epic"
+  },
+  {
+    "id": "goblin_giant",
+    "name": "Goblin Giant",
+    "image": "https://www.deckshop.pro/img/card_ed/GobGiant.png",
+    "elixir": 6,
+    "rarity": "epic"
+  },
+  {
+    "id": "goblin_giant_evo",
+    "name": "Goblin Giant Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/GobGiant.png",
+    "elixir": 6,
+    "rarity": "epic"
+  },
+  {
+    "id": "sparky",
+    "name": "Sparky",
+    "image": "https://www.deckshop.pro/img/card_ed/Sparky.png",
+    "elixir": 6,
+    "rarity": "legendary"
+  },
+  {
+    "id": "spirit_empress",
+    "name": "Spirit Empress",
+    "image": "https://www.deckshop.pro/img/card_ed/SpiritEmpress.png",
+    "elixir": 6,
+    "rarity": "legendary"
+  },
+  {
+    "id": "royal_recruits",
+    "name": "Royal Recruits",
+    "image": "https://www.deckshop.pro/img/card_ed/RoyalRecruits.png",
+    "elixir": 7,
+    "rarity": "common"
+  },
+  {
+    "id": "royal_recruits_evo",
+    "name": "Royal Recruits Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/RoyalRecruits.png",
+    "elixir": 7,
+    "rarity": "evolution"
+  },
+  {
+    "id": "pekka",
+    "name": "P.E.K.K.A",
+    "image": "https://www.deckshop.pro/img/card_ed/PEKKA.png",
+    "elixir": 7,
+    "rarity": "epic"
+  },
+  {
+    "id": "pekka_evo",
+    "name": "P.E.K.K.A Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/PEKKA.png",
+    "elixir": 7,
+    "rarity": "epic"
+  },
+  {
+    "id": "electro_giant",
+    "name": "Electro Giant",
+    "image": "https://www.deckshop.pro/img/card_ed/ElectroGiant.png",
+    "elixir": 7,
+    "rarity": "epic"
+  },
+  {
+    "id": "mega_knight",
+    "name": "Mega Knight",
+    "image": "https://www.deckshop.pro/img/card_ed/MegaKnight.png",
+    "elixir": 7,
+    "rarity": "legendary"
+  },
+  {
+    "id": "mega_knight_evo",
+    "name": "Mega Knight Evo",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/MegaKnight.png",
+    "elixir": 7,
+    "rarity": "evolution"
+  },
+  {
+    "id": "lava_hound",
+    "name": "Lava Hound",
+    "image": "https://www.deckshop.pro/img/card_ed/Lava.png",
+    "elixir": 7,
+    "rarity": "legendary"
+  },
+  {
+    "id": "golem",
+    "name": "Golem",
+    "image": "https://www.deckshop.pro/img/card_ed/Golem.png",
+    "elixir": 8,
+    "rarity": "epic"
+  },
+  {
+    "id": "three_musketeers",
+    "name": "Three Musketeers",
+    "image": "https://www.deckshop.pro/img/card_ed/3M.png",
+    "elixir": 9,
+    "rarity": "rare"
+  }
+]
