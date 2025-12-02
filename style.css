@@ -32,6 +32,7 @@ body {
     font-size: 1.5rem;
     font-weight: bold;
     color: #ffd700;
+    cursor:pointer;
 }
 
 .nav-links {
@@ -142,7 +143,7 @@ body {
     justify-content: center;
     cursor: pointer;
     position: relative;
-    overflow: hidden;
+    overflow: visible;
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
@@ -156,9 +157,13 @@ body {
 }
 
 .slot.filled img {
+    position: absolute;
+    bottom: 0;
+    left: 0;
     width: 100%;
-    height: 100%;
+    height: 133%;
     object-fit: contain;
+    object-position: bottom;
 }
 
 .slot-number {
@@ -333,13 +338,12 @@ body {
 .saved-decks-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 2rem;
 }
 
 .deck-card {
     background: #1a1a1a;
-    border-radius: 16px;
-    padding: 1.5rem;
+    border-radius: 10px;
+    padding: 1rem;
     border: 2px solid #2a2a2a;
     transition: all 0.3s;
     cursor: pointer;
@@ -376,6 +380,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: 140px; 
     gap: 0.5rem;
+    padding: 1rem 0;
 }
 
 .deck-card-grid img {

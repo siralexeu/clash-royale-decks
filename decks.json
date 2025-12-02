@@ -61,5 +61,68 @@
     }
   ],
   "avgElixir": "3.8"
+},
+{
+  "id": 1764687853010,
+  "name": "deck challenger 2020",
+  "cards": [
+    {
+      "id": "hog_rider",
+      "name": "Hog Rider",
+      "image": "https://www.deckshop.pro/img/card_ed/Hog.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "image": "https://www.deckshop.pro/img/card_ed/Exe.png",
+      "elixir": 5,
+      "rarity": "epic"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "image": "https://www.deckshop.pro/img/card_ed/Poison.png",
+      "elixir": 4,
+      "rarity": "epic"
+    },
+    {
+      "id": "pekka",
+      "name": "P.E.K.K.A",
+      "image": "https://www.deckshop.pro/img/card_ed/PEKKA.png",
+      "elixir": 7,
+      "rarity": "epic"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "image": "https://www.deckshop.pro/img/card_ed/Valk.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "image": "https://www.deckshop.pro/img/card_ed/Minions.png",
+      "elixir": 3,
+      "rarity": "common"
+    }
+  ],
+  "avgElixir": "4.0"
 }
 ]

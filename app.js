@@ -37,6 +37,13 @@ function setupNavigation() {
             }
         });
     });
+    const logo = document.querySelector('.logo');
+    logo.addEventListener('click', () => {
+        document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+        document.querySelector('[data-page="deck-builder"]').classList.add('active');
+        document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+        document.getElementById('deck-builder-page').classList.add('active');
+    });
 }
 
 // Event Listeners
@@ -120,7 +127,7 @@ function displayCards(searchTerm = '') {
     cardsGrid.innerHTML = filteredCards.map(card => {
         const isInDeck = currentDeck.some(c => c && c.id === card.id);
         return `
-            <div class="card-item ${isInDeck ? 'disabled' : ''}" onclick="selectCard('${card.id}')">
+            <div class="card-item ${isInDeck ? 'disabled' : ''} rarity-${card.rarity}" onclick="selectCard('${card.id}')">
                 <img src="${card.image}" alt="${card.name}">
             </div>
         `;
@@ -168,8 +175,9 @@ function updateDeckDisplay() {
             slot.classList.remove('empty');
             slot.classList.add('filled');
             slot.innerHTML = `
-                <div class="slot-number">${index + 1}</div>
-                <img src="${card.image}" alt="${card.name}">
+                <div class="card-wrapper rarity-${card.rarity}">
+                    <img src="${card.image}" alt="${card.name}">
+                </div>
             `;
         } else {
             slot.classList.add('empty');
@@ -305,7 +313,9 @@ function displaySavedDecks() {
             </div>
             <div class="deck-card-grid">
                 ${deck.cards.map(card => `
-                    <img src="${card.image}" alt="${card.name}">
+                    <div class="card-wrapper rarity-${card.rarity}">
+                        <img src="${card.image}" alt="${card.name}">
+                    </div>
                 `).join('')}
             </div>
         </div>
@@ -350,7 +360,7 @@ function displayAllCards(searchTerm = '') {
     );
     
     container.innerHTML = filteredCards.map(card => `
-        <div class="card-item">
+        <div class="card-item rarity-${card.rarity}">
             <img src="${card.image}" alt="${card.name}">
         </div>
     `).join('');

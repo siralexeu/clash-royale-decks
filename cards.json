@@ -917,6 +917,13 @@
     "rarity": "epic"
   },
   {
+    "id": "executioner_evo",
+    "name": "Executioner",
+    "image": "https://www.deckshop.pro/img/card_ed_evo/Exe.png",
+    "elixir": 5,
+    "rarity": "evolution"
+  },
+  {
     "id": "cannon_cart",
     "name": "Cannon Cart",
     "image": "https://www.deckshop.pro/img/card_ed/CannonCart.png",
