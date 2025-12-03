@@ -1,7 +1,7 @@
 [
 {
   "id": 1764684848747,
-  "name": "splashyard",
+  "name": "splashyard 2025",
   "cards": [
     {
       "id": "witch_evo",
@@ -64,7 +64,7 @@
 },
 {
   "id": 1764687853010,
-  "name": "deck challenger 2020",
+  "name": "deck challenger 1 2020",
   "cards": [
     {
       "id": "hog_rider",
@@ -125,4 +125,5 @@
   ],
   "avgElixir": "4.0"
 }
+
 ]
