@@ -10,7 +10,7 @@ Un site simplu și elegant pentru a crea, gestiona și exporta deckuri din Clash
 
 Pagina principală unde îți construiești deckurile:
 
-1. **Selectează un slot** - Click pe unul din cele 8 sloturi goale (se evidențiază cu galben)
+1. **Selectează un slot** - Click pe unul din cele 8 sloturi goale
 2. **Alege o carte** - Scroll jos și caută cartea dorită în listă
 3. **Click pe carte** - Cartea apare automat în slotul selectat
 4. **Repetă** - Următorul slot gol se selectează automat
