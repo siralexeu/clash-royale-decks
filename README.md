@@ -1,6 +1,6 @@
 # ⚔️ Clash Royale Deck Builder
 
-A simple and elegant site to create, manage, and export Clash Royale decks. Perfect for players who want to organize their strategies and experiment with different card combinations.
+A simple and elegant site to create, manage, and export Clash Royale decks.
 
 ![Clash Royale Deck Builder](https://img.shields.io/badge/Clash%20Royale-Deck%20Builder-blue?style=for-the-badge)
 
@@ -40,7 +40,7 @@ Complete gallery with all 164 available cards (125 normal cards + 39 evolutions)
 
 ## 📝 Typical Workflow
 
-### Usage
+### First Time Use
 
 1. Enter the site → see the **Deck Builder** page
 2. Explore available cards in the bottom grid
@@ -50,6 +50,13 @@ Complete gallery with all 164 available cards (125 normal cards + 39 evolutions)
 ### Permanent Save
 
 For the deck to appear in **My Decks**, you need to add the exported JSON to the `decks.json` file in the repository. After doing this and refreshing the page, the deck will appear saved.
+
+### Daily Usage
+
+1. **Explore** - Go to "My Decks" to see all your strategies
+2. **Modify** - Click on a deck → it loads in builder → change the cards
+3. **Test** - Create variants of the same deck with different cards
+4. **Organize** - Export the new versions and save them
 
 ---
 
