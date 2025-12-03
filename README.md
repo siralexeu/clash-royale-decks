@@ -1,57 +1,56 @@
 # ⚔️ Clash Royale Deck Builder
 
-Un site simplu și elegant pentru a crea, gestiona și exporta deckuri din Clash Royale. Perfect pentru jucătorii care vor să-și organizeze strategiile și să experimenteze cu diferite combinații de cărți.
+A simple and elegant site to create, manage, and export Clash Royale decks. Perfect for players who want to organize their strategies and experiment with different card combinations.
 
 ![Clash Royale Deck Builder](https://img.shields.io/badge/Clash%20Royale-Deck%20Builder-blue?style=for-the-badge)
 
-## 🎮 Cum Funcționează
+## 🎮 How It Works
 
-### 🔨 Deck Builder - Creează Deckuri Noi
+### 🔨 Deck Builder - Create New Decks
 
-Pagina principală unde îți construiești deckurile:
+The main page where you build your decks:
 
-1. **Selectează un slot** - Click pe unul din cele 8 sloturi goale
-2. **Alege o carte** - Scroll jos și caută cartea dorită în listă
-3. **Click pe carte** - Cartea apare automat în slotul selectat
-4. **Repetă** - Următorul slot gol se selectează automat
-5. **Vezi media de elixir** - Se calculează automat pe măsură ce adaugi cărți
+1. **Select a slot** - Click on one of the 8 empty slots
+2. **Choose a card** - Scroll down and search for the desired card in the list
+3. **Click on card** - The card automatically appears in the selected slot
+4. **Repeat** - The next empty slot is automatically selected
+5. **View elixir average** - Calculated automatically as you add cards
 
-**Funcții utile:**
-- **Căutare rapidă** - Tastează numele cărții în bara de căutare
-- **Drag & Drop** - Trage cărțile între sloturi pentru a le rearanja
-- **Clear Deck** - Șterge toate cărțile și începe de la zero
-- **Export Deck** - Când ai 8 cărți, adaugă un nume și apasă "Export Deck" pentru a descărca JSON-ul
+**Useful features:**
+- **Quick search** - Type the card name in the search bar
+- **Drag & Drop** - Drag cards between slots to rearrange them
+- **Clear Deck** - Delete all cards and start from scratch
+- **Export Deck** - When you have 8 cards, add a name and press "Export Deck" to download the JSON
 
-### 💾 My Decks - Deckurile Tale Salvate
+### 💾 My Decks - Your Saved Decks
 
-Aici găsești toate deckurile pe care le-ai salvat:
+Here you'll find all the decks you've saved:
 
-- **Vezi toate deckurile** - Fiecare deck afișează numele, cele 8 cărți și media de elixir
-- **Încarcă în builder** - Click pe un deck pentru a-l deschide în Deck Builder
-- **Modifică** - După ce încarci un deck, poți schimba cărțile și exporta din nou
+- **View all decks** - Each deck displays the name, 8 cards, and elixir average
+- **Load into builder** - Click on a deck to open it in Deck Builder
+- **Modify** - After loading a deck, you can change cards and export again
 
-### 🃏 All Cards - Toate Cărțile
+### 🃏 All Cards - All Cards
 
-Galerie completă cu toate cele 164 de cărți disponibile (125 cărți normale + 39 evoluții):
+Complete gallery with all 164 available cards (125 normal cards + 39 evolutions):
 
-- **Explorează cărțile** - Vezi toate cărțile din joc într-un grid organizat
-- **Căutare** - Găsește rapid orice carte după nume
-- **Cărți speciale** - Evoluțiile, Legendare și Eroii au dimensiuni mai mari pentru a fi ușor de identificat
+- **Explore cards** - View all cards from the game in an organized grid
+- **Search** - Quickly find any card by name
+- **Special cards** - Evolutions, Legendaries, and Heroes have larger sizes to be easily identified
 
-## 📝 Workflow Tipic
+## 📝 Typical Workflow
 
-### Utilizare
+### Usage
 
-1. Intri pe site → vezi pagina **Deck Builder**
-2. Explorezi cărțile disponibile în grid-ul de jos
-3. Creezi primul deck selectând 8 cărți
-4. Dai **Export Deck** și salvezi JSON-ul pe PC
+1. Enter the site → see the **Deck Builder** page
+2. Explore available cards in the bottom grid
+3. Create your first deck by selecting 8 cards
+4. Click **Export Deck** and save the JSON to your PC
 
-### Salvare Permanentă
+### Permanent Save
 
-Pentru ca deckul să apară în **My Decks**, trebuie să adaugi JSON-ul exportat în fișierul `decks.json` din repository. După ce faci asta și refreshezi pagina, deck-ul va apărea salvat.
-
+For the deck to appear in **My Decks**, you need to add the exported JSON to the `decks.json` file in the repository. After doing this and refreshing the page, the deck will appear saved.
 
 ---
 
-**Gata de Battle!** ⚔️ Creează-ți strategia perfectă și domină arena! 🏆
+**Ready for Battle!** ⚔️ Create your perfect strategy and dominate the arena! 🏆
