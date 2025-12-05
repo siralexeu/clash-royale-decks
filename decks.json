@@ -63,9 +63,163 @@
   "avgElixir": "3.8"
 },
 {
-  "id": 1764687853010,
-  "name": "deck challenger 1 2020",
+  "id": 1764935275030,
+  "name": "My Splashyard Skeleton King Phoenix 2023-2025",
   "cards": [
+    {
+      "id": "skeleton_king",
+      "name": "Skeleton King",
+      "image": "https://www.deckshop.pro/img/card_ed/SkeletonKing.png",
+      "elixir": 4,
+      "rarity": "champion"
+    },
+    {
+      "id": "graveyard",
+      "name": "Graveyard",
+      "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
+      "elixir": 5,
+      "rarity": "legendary"
+    },
+    {
+      "id": "tombstone",
+      "name": "Tombstone",
+      "image": "https://www.deckshop.pro/img/card_ed/Tombstone.png",
+      "elixir": 3,
+      "rarity": "rare"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "image": "https://www.deckshop.pro/img/card_ed/Phoenix.png",
+      "elixir": 4,
+      "rarity": "legendary"
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "image": "https://www.deckshop.pro/img/card_ed/Poison.png",
+      "elixir": 4,
+      "rarity": "epic"
+    },
+    {
+      "id": "barb_barrel",
+      "name": "Barbarian Barrel",
+      "image": "https://www.deckshop.pro/img/card_ed/BarbBarrel.png",
+      "elixir": 2,
+      "rarity": "epic"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "ice_wizard",
+      "name": "Ice Wizard",
+      "image": "https://www.deckshop.pro/img/card_ed/IceWiz.png",
+      "elixir": 3,
+      "rarity": "legendary"
+    }
+  ],
+  "avgElixir": "3.5"
+},
+{
+  "id": 1764935494560,
+  "name": "Favourite Golem deck 2024",
+  "cards": [
+    {
+      "id": "lumberjack_evo",
+      "name": "Lumberjack Evo",
+      "image": "https://www.deckshop.pro/img/card_ed_evo/Lumber.png",
+      "elixir": 4,
+      "rarity": "evolution"
+    },
+    {
+      "id": "electro_dragon_evo",
+      "name": "Electro Dragon Evo",
+      "image": "https://www.deckshop.pro/img/card_ed_evo/eDragon.png",
+      "elixir": 5,
+      "rarity": "evolution"
+    },
+    {
+      "id": "golem",
+      "name": "Golem",
+      "image": "https://www.deckshop.pro/img/card_ed/Golem.png",
+      "elixir": 8,
+      "rarity": "epic"
+    },
+    {
+      "id": "barb_barrel",
+      "name": "Barbarian Barrel",
+      "image": "https://www.deckshop.pro/img/card_ed/BarbBarrel.png",
+      "elixir": 2,
+      "rarity": "epic"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "image": "https://www.deckshop.pro/img/card_ed/Phoenix.png",
+      "elixir": 4,
+      "rarity": "legendary"
+    },
+    {
+      "id": "elixir_collector",
+      "name": "Elixir Collector",
+      "image": "https://www.deckshop.pro/img/card_ed/Pump.png",
+      "elixir": 6,
+      "rarity": "rare"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "dark_prince",
+      "name": "Dark Prince",
+      "image": "https://www.deckshop.pro/img/card_ed/DarkPrince.png",
+      "elixir": 4,
+      "rarity": "epic"
+    }
+  ],
+  "avgElixir": "4.5"
+},
+{
+  "id": 1764936014350,
+  "name": "Challenger I 2019 hog exe pekka",
+  "cards": [
+    {
+      "id": "pekka",
+      "name": "P.E.K.K.A",
+      "image": "https://www.deckshop.pro/img/card_ed/PEKKA.png",
+      "elixir": 7,
+      "rarity": "epic"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "image": "https://www.deckshop.pro/img/card_ed/Minions.png",
+      "elixir": 3,
+      "rarity": "common"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
     {
       "id": "hog_rider",
       "name": "Hog Rider",
@@ -81,17 +235,185 @@
       "rarity": "epic"
     },
     {
-      "id": "tornado",
-      "name": "Tornado",
-      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "id": "poison",
+      "name": "Poison",
+      "image": "https://www.deckshop.pro/img/card_ed/Poison.png",
+      "elixir": 4,
+      "rarity": "epic"
+    },
+    {
+      "id": "skarmy",
+      "name": "Skeleton Army",
+      "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
       "elixir": 3,
       "rarity": "epic"
+    }
+  ],
+  "avgElixir": "3.9"
+},
+{
+  "id": 1764936216648,
+  "name": "Golem Night Witch 12 wins classic challenge 2022",
+  "cards": [
+    {
+      "id": "night_witch",
+      "name": "Night Witch",
+      "image": "https://www.deckshop.pro/img/card_ed/NightWitch.png",
+      "elixir": 4,
+      "rarity": "legendary"
     },
     {
       "id": "zap",
       "name": "Zap",
       "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
       "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "mega_minion",
+      "name": "Mega Minion",
+      "image": "https://www.deckshop.pro/img/card_ed/MM.png",
+      "elixir": 3,
+      "rarity": "rare"
+    },
+    {
+      "id": "skarmy",
+      "name": "Skeleton Army",
+      "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "mini_pekka",
+      "name": "Mini P.E.K.K.A.",
+      "image": "https://www.deckshop.pro/img/card_ed/MP.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "golem",
+      "name": "Golem",
+      "image": "https://www.deckshop.pro/img/card_ed/Golem.png",
+      "elixir": 8,
+      "rarity": "epic"
+    },
+    {
+      "id": "bomber",
+      "name": "Bomber",
+      "image": "https://www.deckshop.pro/img/card_ed/Bomber.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "fireball",
+      "name": "Fireball",
+      "image": "https://www.deckshop.pro/img/card_ed/Fireball.png",
+      "elixir": 4,
+      "rarity": "rare"
+    }
+  ],
+  "avgElixir": "3.8"
+},
+{
+  "id": 1764936566342,
+  "name": "xSlayder Hog deck 2019",
+  "cards": [
+    {
+      "id": "hog_rider",
+      "name": "Hog Rider",
+      "image": "https://www.deckshop.pro/img/card_ed/Hog.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "image": "https://www.deckshop.pro/img/card_ed/Valk.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "ice_spirit",
+      "name": "Ice Spirit",
+      "image": "https://www.deckshop.pro/img/card_ed/IceSpirit.png",
+      "elixir": 1,
+      "rarity": "common"
+    },
+    {
+      "id": "goblins",
+      "name": "Goblins",
+      "image": "https://www.deckshop.pro/img/card_ed/Gobs.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "log",
+      "name": "The Log",
+      "image": "https://www.deckshop.pro/img/card_ed/Log.png",
+      "elixir": 2,
+      "rarity": "legendary"
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "image": "https://www.deckshop.pro/img/card_ed/Exe.png",
+      "elixir": 5,
+      "rarity": "epic"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "image": "https://www.deckshop.pro/img/card_ed/Rocket.png",
+      "elixir": 6,
+      "rarity": "rare"
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "image": "https://www.deckshop.pro/img/card_ed/Tornado.png",
+      "elixir": 3,
+      "rarity": "epic"
+    }
+  ],
+  "avgElixir": "3.4"
+},
+{
+  "id": 1764936777976,
+  "name": "private_server OG deck 2019-prezent",
+  "cards": [
+    {
+      "id": "elite_barbarians",
+      "name": "Elite Barbarians",
+      "image": "https://www.deckshop.pro/img/card_ed/eBarbs.png",
+      "elixir": 6,
+      "rarity": "common"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "bandit",
+      "name": "Bandit",
+      "image": "https://www.deckshop.pro/img/card_ed/Bandit.png",
+      "elixir": 3,
+      "rarity": "legendary"
+    },
+    {
+      "id": "mega_knight",
+      "name": "Mega Knight",
+      "image": "https://www.deckshop.pro/img/card_ed/MegaKnight.png",
+      "elixir": 7,
+      "rarity": "legendary"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "image": "https://www.deckshop.pro/img/card_ed/Minions.png",
+      "elixir": 3,
       "rarity": "common"
     },
     {
@@ -102,18 +424,60 @@
       "rarity": "epic"
     },
     {
-      "id": "pekka",
-      "name": "P.E.K.K.A",
-      "image": "https://www.deckshop.pro/img/card_ed/PEKKA.png",
-      "elixir": 7,
-      "rarity": "epic"
+      "id": "gob_gang",
+      "name": "Goblin Gang",
+      "image": "https://www.deckshop.pro/img/card_ed/GobGang.png",
+      "elixir": 3,
+      "rarity": "common"
     },
     {
-      "id": "valkyrie",
-      "name": "Valkyrie",
-      "image": "https://www.deckshop.pro/img/card_ed/Valk.png",
+      "id": "inferno_tower",
+      "name": "Inferno Tower",
+      "image": "https://www.deckshop.pro/img/card_ed/Inferno.png",
+      "elixir": 5,
+      "rarity": "rare"
+    }
+  ],
+  "avgElixir": "4.1"
+},
+{
+  "id": 1764942342526,
+  "name": "Giant Graveyard OG deck 2018",
+  "cards": [
+    {
+      "id": "giant",
+      "name": "Giant",
+      "image": "https://www.deckshop.pro/img/card_ed/Giant.png",
+      "elixir": 5,
+      "rarity": "rare"
+    },
+    {
+      "id": "graveyard",
+      "name": "Graveyard",
+      "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
+      "elixir": 5,
+      "rarity": "legendary"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "image": "https://www.deckshop.pro/img/card_ed/Zap.png",
+      "elixir": 2,
+      "rarity": "common"
+    },
+    {
+      "id": "fireball",
+      "name": "Fireball",
+      "image": "https://www.deckshop.pro/img/card_ed/Fireball.png",
       "elixir": 4,
       "rarity": "rare"
+    },
+    {
+      "id": "electro_wizard",
+      "name": "Electro Wizard",
+      "image": "https://www.deckshop.pro/img/card_ed/eWiz.png",
+      "elixir": 4,
+      "rarity": "legendary"
     },
     {
       "id": "minions",
@@ -121,10 +485,22 @@
       "image": "https://www.deckshop.pro/img/card_ed/Minions.png",
       "elixir": 3,
       "rarity": "common"
+    },
+    {
+      "id": "furnace_old",
+      "name": "Furnace Old",
+      "image": "https://static.wikia.nocookie.net/clashroyale/images/a/a2/FurnaceCardOld.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
+      "id": "skarmy",
+      "name": "Skeleton Army",
+      "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
+      "elixir": 3,
+      "rarity": "epic"
     }
   ],
-  "avgElixir": "4.0"
+  "avgElixir": "3.8"
 }
-
 ]
-

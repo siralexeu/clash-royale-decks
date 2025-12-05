@@ -615,6 +615,13 @@
     "elixir": 4,
     "rarity": "evolution"
   },
+    {
+    "id": "furnace_old",
+    "name": "Furnace Old",
+    "image": "https://static.wikia.nocookie.net/clashroyale/images/a/a2/FurnaceCardOld.png",
+    "elixir": 4,
+    "rarity": "rare"
+  },
   {
     "id": "zappies",
     "name": "Zappies",
