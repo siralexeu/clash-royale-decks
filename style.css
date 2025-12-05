@@ -134,17 +134,26 @@ body {
 
 .slot {
     width: 100%;
-    height: 140px;
-    background: url('https://www.deckshop.pro/img/card_blank.png') no-repeat center/cover;
-    border: none;
+    height: 124px;
+    background: linear-gradient(135deg, #2a2a2a, #111);
+    border: 2px solid #111;
     border-radius: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     position: relative;
-    overflow: visible;
     transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.slot-placeholder {
+    font-size: 48px;
+    color: rgba(255,255,255,0.4);
+    pointer-events: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .slot:hover {
@@ -152,8 +161,11 @@ body {
 }
 
 .slot.selected {
-    outline: 2px solid #ffd700;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+    background: #aaa; 
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
+    border: 2px solid #666; 
+    transform: none;
 }
 
 .slot.filled img {
@@ -164,6 +176,15 @@ body {
     height: 133%;
     object-fit: contain;
     object-position: bottom;
+}
+
+.slot.filled {
+    background: none;       
+    border: none;           
+}
+
+.slot.filled .slot-placeholder {
+    display: none;          
 }
 
 .slot-number {
@@ -192,6 +213,24 @@ body {
     border-radius: 12px;
 }
 
+/* Sticky Header pentru Deck Builder */
+/* .sticky-header {
+    position: sticky;
+    top: 0;               
+    z-index: 100;         
+    padding-top: 1rem;    
+    padding-bottom: 1rem; 
+    border-bottom: 2px solid #2a2a2a; 
+    margin-bottom: 1rem;  
+}
+
+@media (max-width: 768px) {
+    .sticky-header {
+        position: relative; 
+        top: auto;
+        border-bottom: none;
+    }
+} */
 
 /* Deck Actions */
 .deck-actions {
