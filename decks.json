@@ -441,22 +441,15 @@
   "avgElixir": "4.1"
 },
 {
-  "id": 1764942342526,
+  "id": 1765204286664,
   "name": "Giant Graveyard OG deck 2018",
   "cards": [
     {
-      "id": "giant",
-      "name": "Giant",
-      "image": "https://www.deckshop.pro/img/card_ed/Giant.png",
-      "elixir": 5,
+      "id": "musketeer",
+      "name": "Musketeer",
+      "image": "https://www.deckshop.pro/img/card_ed/Musk.png",
+      "elixir": 4,
       "rarity": "rare"
-    },
-    {
-      "id": "graveyard",
-      "name": "Graveyard",
-      "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
-      "elixir": 5,
-      "rarity": "legendary"
     },
     {
       "id": "zap",
@@ -466,17 +459,24 @@
       "rarity": "common"
     },
     {
-      "id": "fireball",
-      "name": "Fireball",
-      "image": "https://www.deckshop.pro/img/card_ed/Fireball.png",
-      "elixir": 4,
+      "id": "giant",
+      "name": "Giant",
+      "image": "https://www.deckshop.pro/img/card_ed/Giant.png",
+      "elixir": 5,
       "rarity": "rare"
     },
     {
-      "id": "electro_wizard",
-      "name": "Electro Wizard",
-      "image": "https://www.deckshop.pro/img/card_ed/eWiz.png",
-      "elixir": 4,
+      "id": "skarmy",
+      "name": "Skeleton Army",
+      "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
+      "elixir": 3,
+      "rarity": "epic"
+    },
+    {
+      "id": "graveyard",
+      "name": "Graveyard",
+      "image": "https://www.deckshop.pro/img/card_ed/Graveyard.png",
+      "elixir": 5,
       "rarity": "legendary"
     },
     {
@@ -487,20 +487,21 @@
       "rarity": "common"
     },
     {
+      "id": "fireball",
+      "name": "Fireball",
+      "image": "https://www.deckshop.pro/img/card_ed/Fireball.png",
+      "elixir": 4,
+      "rarity": "rare"
+    },
+    {
       "id": "furnace_old",
       "name": "Furnace Old",
       "image": "https://static.wikia.nocookie.net/clashroyale/images/a/a2/FurnaceCardOld.png",
       "elixir": 4,
       "rarity": "rare"
-    },
-    {
-      "id": "skarmy",
-      "name": "Skeleton Army",
-      "image": "https://www.deckshop.pro/img/card_ed/Skarmy.png",
-      "elixir": 3,
-      "rarity": "epic"
     }
   ],
   "avgElixir": "3.8"
 }
+
 ]
